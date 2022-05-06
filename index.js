@@ -173,6 +173,6 @@ render: function () {
             </svg>
 			</div>`;
 },
-refreshFrequency: 10000,
+refreshFrequency: 20000,
 command: "curl -s http://sirens.in.ua/api/v1/",
 state: ""
