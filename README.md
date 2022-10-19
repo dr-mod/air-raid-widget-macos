@@ -8,7 +8,7 @@ This widget shows the current status of air raid sirens in Ukraine. The data is 
 * [Linux](https://github.com/dr-mod/air-raid-widget-linux)
 * [RaspberryPi](https://github.com/dr-mod/air-raid-monitor)
 ## Installation
-1. Download [Übersicht](http://tracesof.net/uebersicht/)
+1. Download [Übersicht](https://tracesof.net/uebersicht/)
 2. Download the widget `git clone https://github.com/dr-mod/air-raid-widget-macos.git`
 3. Open the Übersicht widgets folder `[Ubersicht icon -> Open widgets folder]`
 4. Copy `air-raid-widget-macos` to the Übersicht widgets folder.
